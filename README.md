@@ -1,4 +1,4 @@
-# VN-Digitize-AI 🚀
+# VN-Digitize-AI 
 
 **VN-Digitize-AI** là hệ thống AI số hoá tài liệu hành chính và pháp lý tiếng Việt được thiết kế theo chuẩn **Production-grade**. Hệ thống cung cấp toàn bộ pipeline xử lý từ lúc nạp đầu vào (ảnh chụp/scan vật lý) đến đầu ra nguyên vẹn dữ liệu có cấu trúc JSON và file PDF 2 lớp có khả năng tìm kiếm (Searchable PDF).
 
@@ -26,7 +26,7 @@ Mục tiêu cốt lõi của dự án là loại bỏ quy trình nhập liệu t
 
 ---
 
-## Stack Công Nghệ
+## TechStack
 
 | Thành phần | Công nghệ / Framework | Ghi chú |
 | :--- | :--- | :--- |
